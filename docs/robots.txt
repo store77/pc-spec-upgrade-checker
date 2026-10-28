@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://store77.github.io/pc-spec-upgrade-checker/sitemap.xml

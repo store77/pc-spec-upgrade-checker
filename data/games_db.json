@@ -1,1 +1,447 @@
-{}
+{
+  "4435490": {
+    "appid": "4435490",
+    "name": "Call of Duty®: Modern Warfare® 4",
+    "slug": "call-of-duty-modern-warfare-4-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4435490/0c492be3204835d71e8b454b6eb1817f8ff68c0d/header.jpg?t=1793144541",
+    "short_desc": "War erupts on the Korean Peninsula as North Korea launches an invasion that threatens to destabilize the world in Call of Duty®: Modern Warfare® 4.",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "Oct 22, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 10 64 Bit (latest update)*<br></li><li><strong>Processor:</strong> AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 or Intel® Arc™ A580<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 115 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 11 64 Bit (latest update)*<br></li><li><strong>Processor:</strong> AMD Ryzen™ 5 3600 or Intel® Core™ i7-8700K<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ RX 6600XT, NVIDIA® GeForce® RTX 3060 or Intel® Arc™ B580<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 115 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible<br></li><li><strong>Additional Notes:</strong> *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch.</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 115,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "2TB PCIe Gen4 NVMe M.2 Internal Gaming SSD (Up to 7400 MB/s)",
+      "ssd_query": "2TB NVMe M.2 PCIe Gen4 internal gaming SSD",
+      "gpu_text": "AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 or Intel® Arc™ A580",
+      "gpu_query": "AMD Radeon RX 470 NVIDIA GeForce graphics card",
+      "cpu_text": "AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600",
+      "cpu_query": "AMD Ryzen 5 1400 or processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows® 10 64 Bit (latest update)*<br/></li><li><strong>Processor:</strong> AMD Ryzen™ 5 1400 or Intel® Core™ i5-6600<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> AMD Radeon™ RX 470, NVIDIA® GeForce® GTX 970 / 1060 or Intel® Arc™ A580<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 115 GB available space<br/></li><li><strong>Sound Card:</strong> DirectX compatible<br/></li><li><strong>Additional Notes:</strong> *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows® 11 64 Bit (latest update)*<br/></li><li><strong>Processor:</strong> AMD Ryzen™ 5 3600 or Intel® Core™ i7-8700K<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> AMD Radeon™ RX 6600XT, NVIDIA® GeForce® RTX 3060 or Intel® Arc™ B580<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 115 GB available space<br/></li><li><strong>Sound Card:</strong> DirectX compatible<br/></li><li><strong>Additional Notes:</strong> *Trial, Beta or Insider versions of compatible Windows® operating systems may not be supported. SSD with 115 GB available space at launch.</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4115450": {
+    "appid": "4115450",
+    "name": "Phantom Blade Zero",
+    "slug": "phantom-blade-zero-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4115450/7f882f889630270d3d3fb93825ac6f55b55e7a6c/header.jpg?t=1793104881",
+    "short_desc": "S-GAME presents Phantom Blade Zero, a fusion of classic Wuxia storytelling and exhilarating action powered by Unreal Engine 5. You play as Soul, a warrior with only sixty-six days left to live. Fend off assassins, unravel world-ending conspiracies, and defend your values with your life.",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 (64bit required)<br></li><li><strong>Processor:</strong> Intel Core i7-8700K / AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5500 XT 8GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Additional Notes:</strong> 1080p / 30 FPS with upscaling enabled. SSD installation required.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 (64bit required)<br></li><li><strong>Processor:</strong> Intel Core i5-10600K / AMD Ryzen 5 5600X<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 3060 Ti 8GB / AMD Radeon RX 6700 XT 12GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Additional Notes:</strong> 1440p / 60 FPS with upscaling enabled. SSD installation required.</li></ul>",
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 60,
+      "recommended_ram": "32GB (2x16GB) DDR5 6000MHz Dual-Channel Gaming RAM",
+      "ram_query": "32GB 2x16GB DDR5 6000MHz gaming RAM",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5500 XT 8GB",
+      "gpu_query": "NVIDIA GeForce GTX 1660 6GB AMD graphics card",
+      "cpu_text": "Intel Core i7-8700K / AMD Ryzen 5 3600",
+      "cpu_query": "Intel Core i7 8700K AMD processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10/11 (64bit required)<br/></li><li><strong>Processor:</strong> Intel Core i7-8700K / AMD Ryzen 5 3600<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 6GB / AMD Radeon RX 5500 XT 8GB<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Additional Notes:</strong> 1080p / 30 FPS with upscaling enabled. SSD installation required.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10/11 (64bit required)<br/></li><li><strong>Processor:</strong> Intel Core i5-10600K / AMD Ryzen 5 5600X<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce RTX 3060 Ti 8GB / AMD Radeon RX 6700 XT 12GB<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Additional Notes:</strong> 1440p / 60 FPS with upscaling enabled. SSD installation required.</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5335510": {
+    "appid": "5335510",
+    "name": "Moon Sweepers",
+    "slug": "moon-sweepers-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
+    "short_desc": "An entire Moon to clean. One toothbrush to start. Team up with up to 16 players, collect and sell lunar dust, upgrade your tools, and unlock cleaning vehicles. Turn a ridiculous job into a thriving operation, if your friends actually help.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "Oct 23, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650 / AMD Radeon RX 570<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 Super / AMD Radeon RX 5600 XT<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 2,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce GTX 1650 / AMD Radeon RX 570",
+      "gpu_query": "NVIDIA GeForce GTX 1650 AMD Radeon graphics card",
+      "cpu_text": "Intel Core i5-8400 / AMD Ryzen 5 2600",
+      "cpu_query": "Intel Core i5 8400 AMD processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10<br/></li><li><strong>Processor:</strong> Intel Core i5-8400 / AMD Ryzen 5 2600<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650 / AMD Radeon RX 570<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 2 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 11<br/></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1660 Super / AMD Radeon RX 5600 XT<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4688700": {
+    "appid": "4688700",
+    "name": "Project Exhibitionist",
+    "slug": "project-exhibitionist-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
+    "short_desc": "Project Exhibitionist is a 3D sandbox game about exhibitionism and humiliation. Play as Ciel, a girl who, following a challenge, decides to leave her home completely naked. Discover all the points of interest and create your own story thanks to the game's complete customization.",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "RPG",
+      "Simulation"
+    ],
+    "release_date": "Oct 27, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6600 / AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 Ti 4 GB / AMD RX 570 4 GB<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1660 Super 6 GB / AMD RX 5600 XT 6 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 25 GB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 20,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GTX 1050 Ti 4 GB / AMD RX 570 4 GB",
+      "gpu_query": "NVIDIA GTX 1050 Ti 4 GB graphics card",
+      "cpu_text": "Intel Core i5-6600 / AMD Ryzen 5 1600",
+      "cpu_query": "Intel Core i5 6600 AMD processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i5-6600 / AMD Ryzen 5 1600<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 Ti 4 GB / AMD RX 570 4 GB<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 20 GB available space<br/></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GTX 1660 Super 6 GB / AMD RX 5600 XT 6 GB<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Storage:</strong> 25 GB available space<br/></li><li><strong>Sound Card:</strong> DirectX compatible</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "3259780": {
+    "appid": "3259780",
+    "name": "FINAL FANTASY RESONANCE",
+    "slug": "final-fantasy-resonance-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3259780/710da43babb2043f9f6ad0e50023e31167d94708/header.jpg?t=1793031418",
+    "short_desc": "Return to the pixel‑art world of FINAL FANTASY, evolved from its classic roots. Travel with companions bound by fate and call on Visions to aid you in battle to uncover the truth behind a force that threatens to bring everything to ruin.",
+    "genres": [
+      "RPG"
+    ],
+    "release_date": "Oct 22, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 11<br></li><li><strong>Processor:</strong> AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ RX 6400 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1650<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> Display Resolution / Framerate：1920 × 1080 @ 30 FPS, Graphics Preset &quot;Low&quot;</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows® 11<br></li><li><strong>Processor:</strong> AMD Ryzen™ 5 2500X / Intel® Core™ i3-8100<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Radeon™ RX 5500 XT / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1650<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 15 GB available space<br></li><li><strong>Additional Notes:</strong> Display Resolution / Framerate：1920×1080 @ 60 FPS, Graphics Preset &quot;Highest&quot;</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 15,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "AMD Radeon™ RX 6400 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1650",
+      "gpu_query": "AMD Radeon RX 6400 Intel Arc graphics card",
+      "cpu_text": "AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100",
+      "cpu_query": "AMD Ryzen 3 2300X Intel processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows® 11<br/></li><li><strong>Processor:</strong> AMD Ryzen™ 3 2300X / Intel® Core™ i3-8100<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> AMD Radeon™ RX 6400 / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1650<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Storage:</strong> 15 GB available space<br/></li><li><strong>Additional Notes:</strong> Display Resolution / Framerate：1920 × 1080 @ 30 FPS, Graphics Preset \"Low\"</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows® 11<br/></li><li><strong>Processor:</strong> AMD Ryzen™ 5 2500X / Intel® Core™ i3-8100<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> AMD Radeon™ RX 5500 XT / Intel® Arc™ A580 / NVIDIA® GeForce® GTX 1650<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Storage:</strong> 15 GB available space<br/></li><li><strong>Additional Notes:</strong> Display Resolution / Framerate：1920×1080 @ 60 FPS, Graphics Preset \"Highest\"</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4312190": {
+    "appid": "4312190",
+    "name": "CRACK",
+    "slug": "crack-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4312190/9dfa7d4efdcc88aa5663a31f02633391eb5ef843/header.jpg?t=1793035699",
+    "short_desc": "Why is there a giant egg in this lab? Your job is simple: crack it open. Don't ask questions. CRACK is a 1-4 player co-op incremental adventure about uncovering what's inside a mysterious giant egg.",
+    "genres": [
+      "Adventure",
+      "Simulation"
+    ],
+    "release_date": "Oct 26, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel i5-6600 / Ryzen 5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1050 Ti / RX 570, 4 GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 64-bit<br></li><li><strong>Processor:</strong> Intel i5-10400 / Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> GTX 1660 Super / RTX 2060 / RX 5600 XT, 6 GB<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 3 GB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 3,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "GTX 1050 Ti / RX 570, 4 GB VRAM",
+      "gpu_query": "GTX 1050 Ti RX 570 4 graphics card",
+      "cpu_text": "Intel i5-6600 / Ryzen 5 1600",
+      "cpu_query": "Intel i5 6600 Ryzen 5 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel i5-6600 / Ryzen 5 1600<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> GTX 1050 Ti / RX 570, 4 GB VRAM<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 3 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10/11 64-bit<br/></li><li><strong>Processor:</strong> Intel i5-10400 / Ryzen 5 3600<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> GTX 1660 Super / RTX 2060 / RX 5600 XT, 6 GB<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Storage:</strong> 3 GB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5344440": {
+    "appid": "5344440",
+    "name": "Beamline",
+    "slug": "beamline-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5344440/4158a5e78a1817372439fd69f1c19f19218ece43/header.jpg?t=1793185700",
+    "short_desc": "Bring curated CRT, LCD and VHS looks into supported games. Set up a game in Beamline, launch it as usual, and tune the picture from the in-game overlay.",
+    "genres": [
+      "Indie",
+      "Utilities"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 or later (64-bit)<br></li><li><strong>Processor:</strong> x86-64 processor<br></li><li><strong>Graphics:</strong> Graphics hardware and drivers compatible with your game, with additional GPU headroom for effects.<br></li><li><strong>Additional Notes:</strong> Requires a supported game. Compatibility varies by game, renderer and display mode. The in-game overlay supports keyboard or mouse input. Microsoft Visual C++ v14 runtime required (provided through Steam). Games retain their own system requirements. Effect cost varies with resolution and selected options.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 60,
+      "recommended_ram": "32GB (2x16GB) DDR5 6000MHz Dual-Channel Gaming RAM",
+      "ram_query": "32GB 2x16GB DDR5 6000MHz gaming RAM",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Graphics hardware and drivers compatible with your game, with additional GPU headroom for ",
+      "gpu_query": "Graphics hardware and drivers compatible with graphics card",
+      "cpu_text": "x86-64 processor",
+      "cpu_query": "x86 64 processor processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 or later (64-bit)<br/></li><li><strong>Processor:</strong> x86-64 processor<br/></li><li><strong>Graphics:</strong> Graphics hardware and drivers compatible with your game, with additional GPU headroom for effects.<br/></li><li><strong>Additional Notes:</strong> Requires a supported game. Compatibility varies by game, renderer and display mode. The in-game overlay supports keyboard or mouse input. Microsoft Visual C++ v14 runtime required (provided through Steam). Games retain their own system requirements. Effect cost varies with resolution and selected options.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4882100": {
+    "appid": "4882100",
+    "name": "The Library Assistant",
+    "slug": "the-library-assistant-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4882100/af5e40c0675df397afe9312a363c49363e9ca4a1/header.jpg?t=1793184968",
+    "short_desc": "The Library Assistant is a cozy book-sorting game where you'll discover over 3,000 books across 600 unique book collections. Organize shelves, uncover charming literary treasures, and experience the satisfying feeling of bringing order to delightful physics-based chaos.",
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400 | AMD Phenom II X2 550<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 Graphics Adapter with 1 GB VRAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+    "rec_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400 | AMD Phenom II X2 550<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 Graphics Adapter with 1 GB VRAM<br></li><li><strong>Storage:</strong> 150 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 2,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11 Graphics Adapter with 1 GB VRAM",
+      "gpu_query": "DirectX 11 Graphics Adapter with 1 graphics card",
+      "cpu_text": "Intel Core 2 Duo E8400 | AMD Phenom II X2 550",
+      "cpu_query": "Intel Core 2 Duo E8400 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400 | AMD Phenom II X2 550<br/></li><li><strong>Memory:</strong> 2 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 Graphics Adapter with 1 GB VRAM<br/></li><li><strong>Storage:</strong> 150 MB available space</li></ul> <strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core 2 Duo E8400 | AMD Phenom II X2 550<br/></li><li><strong>Memory:</strong> 2 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 Graphics Adapter with 1 GB VRAM<br/></li><li><strong>Storage:</strong> 150 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "2747660": {
+    "appid": "2747660",
+    "name": "Zombie Assault: Resurgence",
+    "slug": "zombie-assault-resurgence-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2747660/85fc252c60283cffa45df4ed2e2d14d9ccbb0e6b/header.jpg?t=1793184752",
+    "short_desc": "Zombie Assault: Resurgence is an intense, action packed top-down shooter, featuring deep RPG elements. Customise your loadout with unique upgradeable weapons as you gear up to take on hordes of enemies. Play solo or team up in co-op with up to 4 players.",
+    "genres": [
+      "Action",
+      "RPG"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br></li><li><strong>Processor:</strong> 3.2 GHz Quad Core 64bit Processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 12 Compatible<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> 11<br></li><li><strong>Processor:</strong> 4.6 GHz 6-Core 64bit Processor Or Higher<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 12 Compatible<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 4 GB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 4,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 12 Compatible",
+      "gpu_query": "DirectX 12 Compatible graphics card",
+      "cpu_text": "3.2 GHz Quad Core 64bit Processor",
+      "cpu_query": "3 2 GHz Quad Core processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> 10<br/></li><li><strong>Processor:</strong> 3.2 GHz Quad Core 64bit Processor<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 12 Compatible<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 4 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> 11<br/></li><li><strong>Processor:</strong> 4.6 GHz 6-Core 64bit Processor Or Higher<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 12 Compatible<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 4 GB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5340680": {
+    "appid": "5340680",
+    "name": "Tiny Ring Defense",
+    "slug": "tiny-ring-defense-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5340680/c83d22a06bfb91a30199080a2bdaa63ed514e55c/header.jpg?t=1793182232",
+    "short_desc": "A desktop idle defense game that keeps going while you work. Monsters circle a ring around your board and your pixel heroes fight them on their own. Summon, merge and level up heroes, forge weapons, and push through ten worlds at your own pace.",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit or later<br></li><li><strong>Processor:</strong> 64-bit dual-core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics card<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 200 MB available space<br></li><li><strong>Additional Notes:</strong> Runs in a small transparent window (960×360 pixels) on your desktop. Hides automatically while a fullscreen game or video is running.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11 compatible graphics card",
+      "gpu_query": "DirectX 11 compatible graphics card graphics card",
+      "cpu_text": "64-bit dual-core processor",
+      "cpu_query": "64 bit dual core processor processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit or later<br/></li><li><strong>Processor:</strong> 64-bit dual-core processor<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics card<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 200 MB available space<br/></li><li><strong>Additional Notes:</strong> Runs in a small transparent window (960×360 pixels) on your desktop. Hides automatically while a fullscreen game or video is running.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5123790": {
+    "appid": "5123790",
+    "name": "Timopet",
+    "slug": "timopet-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5123790/b762575870e8f0bc3bdc51f6df5edc84aa234d39/header.jpg?t=1793181857",
+    "short_desc": "Register your to-dos as quests and focus with a timer. Cute desktop pets keep you company right on your screen! Complete a quest and your pets will give you coins as a gift! Open boxes with the coins you collect and gather all kinds of pets.",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> 64-bit dual-core processor<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible integrated graphics<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i3 or AMD Ryzen 3<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 2,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11 compatible integrated graphics",
+      "gpu_query": "DirectX 11 compatible integrated graphics graphics card",
+      "cpu_text": "64-bit dual-core processor",
+      "cpu_query": "64 bit dual core processor processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br/></li><li><strong>Processor:</strong> 64-bit dual-core processor<br/></li><li><strong>Memory:</strong> 2 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 compatible integrated graphics<br/></li><li><strong>Storage:</strong> 500 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 11<br/></li><li><strong>Processor:</strong> Intel Core i3 or AMD Ryzen 3<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 compatible graphics<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4520990": {
+    "appid": "4520990",
+    "name": "ZipRush: Surf the Void",
+    "slug": "ziprush-surf-the-void-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4520990/26b3203718067139f36434b9a98916848ef965c0/header.jpg?t=1793181792",
+    "short_desc": "A high-speed VR parkour racing game across walls and ceilings. Build and share tracks, discover impossible shortcuts, and race for the fastest line.",
+    "genres": [
+      "Action",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64bit) / Windows 11 (64bit)<br></li><li><strong>Processor:</strong> Intel Core i5-6400 / AMD FX 8350 or equivalent<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1070, RTX 2060, AMD Radeon RX 5600 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 6 GB available space<br></li><li><strong>VR Support:</strong> Compatible with SteamVR using Meta Quest 2/3/Pro, Valve Index with Knuckle controllers, and VIVE Focus 3 (via VIVE Hub streaming).</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 6,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GTX 1070, RTX 2060, AMD Radeon RX 5600 or equivalent",
+      "gpu_query": "NVIDIA GTX 1070 RTX 2060 AMD graphics card",
+      "cpu_text": "Intel Core i5-6400 / AMD FX 8350 or equivalent",
+      "cpu_query": "Intel Core i5 6400 AMD processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 (64bit) / Windows 11 (64bit)<br/></li><li><strong>Processor:</strong> Intel Core i5-6400 / AMD FX 8350 or equivalent<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GTX 1070, RTX 2060, AMD Radeon RX 5600 or equivalent<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 6 GB available space<br/></li><li><strong>VR Support:</strong> Compatible with SteamVR using Meta Quest 2/3/Pro, Valve Index with Knuckle controllers, and VIVE Focus 3 (via VIVE Hub streaming).</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "4022710": {
+    "appid": "4022710",
+    "name": "Shadows Of Thornkeep",
+    "slug": "shadows-of-thornkeep-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4022710/0243ae0610197a40960921672af02f5ce1fb9d7c/header.jpg?t=1793181500",
+    "short_desc": "A dark fantasy, grid-based dungeon crawler where every step hides peril. Loot, adapt, and survive in turn-based battles as you lead lost souls through cursed halls in this rogue-lite descent into madness.",
+    "genres": [
+      "Action",
+      "Indie",
+      "RPG"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core i3-3220<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br></li><li><strong>Processor:</strong> Intel Core i5-6400<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 400 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce RTX 4060 / AMD Radeon RX 7600 8GB GDDR6",
+      "gpu_query": "NVIDIA GeForce RTX 4060 8GB graphics card",
+      "cpu_text": "Intel Core i3-3220",
+      "cpu_query": "Intel Core i3 3220 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br/></li><li><strong>Processor:</strong> Intel Core i3-3220<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 400 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Win 10<br/></li><li><strong>Processor:</strong> Intel Core i5-6400<br/></li><li><strong>Memory:</strong> 8 MB RAM<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 400 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5313790": {
+    "appid": "5313790",
+    "name": "Terafom",
+    "slug": "terafom-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5313790/50fdc5209c4cf5594865a8ddb5bcb27fe700ff1f/header.jpg?t=1793180413",
+    "short_desc": "Land on a bright sea planet, bop cute slimes, grow land from the sea and build a city with your family. No PvP: a safe online world for the whole family.",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> 64-bit dual-core 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 capable integrated graphics (Intel UHD / AMD Radeon)<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Online-only; a constant internet connection is required to play.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11 64-bit<br></li><li><strong>Processor:</strong> Quad-core 2.5 GHz or better<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated GPU with 2 GB VRAM<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Online-only; a constant internet connection is required to play.</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 1,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11 capable integrated graphics (Intel UHD / AMD Radeon)",
+      "gpu_query": "DirectX 11 capable integrated graphics Intel graphics card",
+      "cpu_text": "64-bit dual-core 2.0 GHz",
+      "cpu_query": "64 bit dual core 2 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> 64-bit dual-core 2.0 GHz<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 capable integrated graphics (Intel UHD / AMD Radeon)<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 1 GB available space<br/></li><li><strong>Additional Notes:</strong> Online-only; a constant internet connection is required to play.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 11 64-bit<br/></li><li><strong>Processor:</strong> Quad-core 2.5 GHz or better<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> Dedicated GPU with 2 GB VRAM<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 2 GB available space<br/></li><li><strong>Additional Notes:</strong> Online-only; a constant internet connection is required to play.</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  },
+  "5188720": {
+    "appid": "5188720",
+    "name": "MachineGunner3 : Cosmos Ascending True",
+    "slug": "machinegunner3-cosmos-ascending-true-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5188720/2adeee9adeb39ca40c841a43e681bd1684ede247/header.jpg?t=1793179062",
+    "short_desc": "MachineGunner 3 is a casual 2d racing shooter game that Player moves AIM and accelerates or decelerates to take down the enemys. Rush through the space, Use proper type and carry proper speed for more score, And finish the stage!",
+    "genres": [
+      "Action",
+      "Casual",
+      "Indie",
+      "Racing"
+    ],
+    "release_date": "Oct 28, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong>  Windows 10 21H1 Or Later<br></li><li><strong>Processor:</strong> Intel Core i3-3220 Or Higher<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 Or Equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Intel HD Graphics 4000 Or Equivalent",
+      "gpu_query": "Intel HD Graphics 4000 Or Equivalent graphics card",
+      "cpu_text": "Intel Core i3-3220 Or Higher",
+      "cpu_query": "Intel Core i3 3220 Or processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong>  Windows 10 21H1 Or Later<br/></li><li><strong>Processor:</strong> Intel Core i3-3220 Or Higher<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 Or Equivalent<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 500 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-28"
+  }
+}
