@@ -889,5 +889,449 @@
       "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS *:</strong> Windows 7<br/></li><li><strong>Processor:</strong> Intel CPU Core i5-2500K 3.3GHz, AMD CPU Phenom II X4 940<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> Nvidia GPU GeForce GTX 1060, AMD GPU Radeon RX 580<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 16 GB available space<br/></li><li><strong>Additional Notes:</strong> If in doubt, try demo.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10<br/></li><li><strong>Processor:</strong> Intel CPU Core i7 3770 3,4 GHz, AMD CPU AMD FX-8350 4 GHz<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> Nvidia GPU GeForce RTX 3060, AMD GPU Radeon RX 6600 XT<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 16 GB available space</li></ul>"
     },
     "updated_at": "2026-10-29"
+  },
+  "3884860": {
+    "appid": "3884860",
+    "name": "The Wolf Among Us Remastered",
+    "slug": "the-wolf-among-us-remastered-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
+    "short_desc": "A dark detective thriller where folklore is real, violence is chilling, and every choice has consequences.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "Casual"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10<br></li><li><strong>Processor:</strong> Intel Core 2 Quad Q6600 or AMD Phenom II X4 910<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 470, 1GB or AMD Radeon HD 5870, 1GB<br></li><li><strong>Additional Notes:</strong> Low 1080p @ 30 FPS</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11<br></li><li><strong>Processor:</strong> Intel Core i3-8100 or AMD Ryzen 3 2300X<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 TI, 4GB or AMD Radeon RX 6400, 4GB<br></li><li><strong>Additional Notes:</strong> High 1080p @ 60 FPS</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce GTX 470, 1GB or AMD Radeon HD 5870, 1GB",
+      "gpu_query": "NVIDIA GeForce GTX 470 1GB or graphics card",
+      "cpu_text": "Intel Core 2 Quad Q6600 or AMD Phenom II X4 910",
+      "cpu_query": "Intel Core 2 Quad Q6600 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10<br/></li><li><strong>Processor:</strong> Intel Core 2 Quad Q6600 or AMD Phenom II X4 910<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 470, 1GB or AMD Radeon HD 5870, 1GB<br/></li><li><strong>Additional Notes:</strong> Low 1080p @ 30 FPS</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 11<br/></li><li><strong>Processor:</strong> Intel Core i3-8100 or AMD Ryzen 3 2300X<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 TI, 4GB or AMD Radeon RX 6400, 4GB<br/></li><li><strong>Additional Notes:</strong> High 1080p @ 60 FPS</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5402860": {
+    "appid": "5402860",
+    "name": "MEOWBOUND LEGENDS",
+    "slug": "meowbound-legends-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5402860/8b1ad74c3c94de1cf3de4b7ba90d730e0b24d507/header.jpg?t=1793322846",
+    "short_desc": "《MEOWBOUND LEGENDS: Legend of the Brave Cats》 is an idle RPG starring cats. A group of cats were transported to another world, where they built Meow Village.",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "RPG"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i3 / AMD equivalent, 2.0 GHz dual-core<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> Integrated graphics with OpenGL 3.3 support (Intel HD Graphics 4000 or better)<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br></li><li><strong>Processor:</strong> Intel Core i5 / AMD Ryzen 3 or better<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Any dedicated GPU with OpenGL 3.3 support<br></li><li><strong>Storage:</strong> 500 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 2,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Integrated graphics with OpenGL 3.3 support (Intel HD Graphics 4000 or better)",
+      "gpu_query": "Integrated graphics with OpenGL 3 3 graphics card",
+      "cpu_text": "Intel Core i3 / AMD equivalent, 2.0 GHz dual-core",
+      "cpu_query": "Intel Core i3 AMD equivalent processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 (64-bit)<br/></li><li><strong>Processor:</strong> Intel Core i3 / AMD equivalent, 2.0 GHz dual-core<br/></li><li><strong>Memory:</strong> 2 GB RAM<br/></li><li><strong>Graphics:</strong> Integrated graphics with OpenGL 3.3 support (Intel HD Graphics 4000 or better)<br/></li><li><strong>Storage:</strong> 500 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br/></li><li><strong>Processor:</strong> Intel Core i5 / AMD Ryzen 3 or better<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Any dedicated GPU with OpenGL 3.3 support<br/></li><li><strong>Storage:</strong> 500 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5295390": {
+    "appid": "5295390",
+    "name": "Endless Valkyrie",
+    "slug": "endless-valkyrie-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5295390/9280296468c52a053b6c2949c9bacefe68b4043e/header.jpg?t=1793322336",
+    "short_desc": "Endless Valkyrie is a 2D pixel idle RPG inspired by Nordic mythology. Guide a Valkyrie through automatic exploration and combat, configure skills and gear, cross three regions, challenge Bosses, forge equipment, claim Offline Rewards, and Rebirth to preserve permanent growth.",
+    "genres": [
+      "Adventure",
+      "Casual",
+      "Simulation"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-4130 or AMD equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 520 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> Performance may vary depending on the number of enemies and visual effects on screen.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit or Windows 11 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6500 or AMD Ryzen 5 1600<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 or AMD Radeon RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 2 GB available space<br></li><li><strong>Additional Notes:</strong> An SSD is recommended for faster loading times.</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 2,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Intel HD Graphics 520 or equivalent",
+      "gpu_query": "Intel HD Graphics 520 or equivalent graphics card",
+      "cpu_text": "Intel Core i3-4130 or AMD equivalent",
+      "cpu_query": "Intel Core i3 4130 or processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i3-4130 or AMD equivalent<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Intel HD Graphics 520 or equivalent<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 2 GB available space<br/></li><li><strong>Additional Notes:</strong> Performance may vary depending on the number of enemies and visual effects on screen.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit or Windows 11 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i5-6500 or AMD Ryzen 5 1600<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1050 or AMD Radeon RX 560<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 2 GB available space<br/></li><li><strong>Additional Notes:</strong> An SSD is recommended for faster loading times.</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5302180": {
+    "appid": "5302180",
+    "name": "Everything Must Go!",
+    "slug": "everything-must-go-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5302180/47e604133d875ed9a71712f8d66e4f2a91bcd1a4/header.jpg?t=1793322119",
+    "short_desc": "Four broke thieves. One supermarket. One thousand items. Race your friends to steal, sell, and upgrade — then throw groceries at each other until only one thief walks away rich. 4-player online party chaos. Keyboard & mouse.",
+    "genres": [
+      "Action",
+      "Casual",
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-6400 / AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 / AMD RX 560<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 64-bit<br></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GTX 1660 / AMD RX 580<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GTX 1050 / AMD RX 560",
+      "gpu_query": "NVIDIA GTX 1050 AMD RX 560 graphics card",
+      "cpu_text": "Intel Core i5-6400 / AMD Ryzen 3 1200",
+      "cpu_query": "Intel Core i5 6400 AMD processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i5-6400 / AMD Ryzen 3 1200<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GTX 1050 / AMD RX 560<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 512 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10/11 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i5-10400 / AMD Ryzen 5 3600<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GTX 1660 / AMD RX 580<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 512 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "4953670": {
+    "appid": "4953670",
+    "name": "WAZATO: Sabotage or Mistake?",
+    "slug": "wazato-sabotage-or-mistake-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4953670/2cf2d586b699d02fe7643912ffce77baaab713ea/header.jpg?t=1793322021",
+    "short_desc": "Sabotage or Mistake? A 4-player online party game mixing co-op action with social deduction. Three Crew work together while one hidden Spy sabotages the team. Read your friends’ moves and excuses, then face a final showdown shaped by your mission results.",
+    "genres": [
+      "Casual",
+      "Indie"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Intel Core i3-8100 or AMD Ryzen 3 1200<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD Graphics 630 or equivalent<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> DirectX-compatible sound card<br></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 1,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Intel UHD Graphics 630 or equivalent",
+      "gpu_query": "Intel UHD Graphics 630 or equivalent graphics card",
+      "cpu_text": "Intel Core i3-8100 or AMD Ryzen 3 1200",
+      "cpu_query": "Intel Core i3 8100 or processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Intel Core i3-8100 or AMD Ryzen 3 1200<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Intel UHD Graphics 630 or equivalent<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 1 GB available space<br/></li><li><strong>Sound Card:</strong> DirectX-compatible sound card<br/></li><li><strong>Additional Notes:</strong> Requires a 64-bit processor and operating system</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>Network:</strong> Broadband Internet connection</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5394990": {
+    "appid": "5394990",
+    "name": "Wallbreaker",
+    "slug": "wallbreaker-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5394990/2c31ef3178add307921cfd79a334501e00d5e591/header.jpg?t=1793320794",
+    "short_desc": "Break the walls before they break you. Wallbreaker is an action roguelike where you fight upward against descending structures. Choose a warrior, ranger, or mage, combine items and augments, and find a new way to bring everything crashing down.",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 / Windows 11 (64-bit)<br></li><li><strong>Processor:</strong> Dual-core 2.4 GHz processor or equivalent<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or equivalent<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Sound Card:</strong> Windows-compatible audio device<br></li><li><strong>Additional Notes:</strong> Provisional estimated requirements. Low-end hardware validation is pending; specifications may be updated before release. Keyboard and mouse required.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 1,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Intel HD Graphics 4000 or equivalent",
+      "gpu_query": "Intel HD Graphics 4000 or equivalent graphics card",
+      "cpu_text": "Dual-core 2.4 GHz processor or equivalent",
+      "cpu_query": "Dual core 2 4 GHz processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 / Windows 11 (64-bit)<br/></li><li><strong>Processor:</strong> Dual-core 2.4 GHz processor or equivalent<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Intel HD Graphics 4000 or equivalent<br/></li><li><strong>Storage:</strong> 1 GB available space<br/></li><li><strong>Sound Card:</strong> Windows-compatible audio device<br/></li><li><strong>Additional Notes:</strong> Provisional estimated requirements. Low-end hardware validation is pending; specifications may be updated before release. Keyboard and mouse required.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5285020": {
+    "appid": "5285020",
+    "name": "Fair21: Blackjack",
+    "slug": "fair21-blackjack-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5285020/e1d3e170280beeb8c9714665d211d5d5e7ded784/header.jpg?t=1793319363",
+    "short_desc": "A pixel-art blackjack game built around verifiable fairness. Play classic 21 solo, at a three-seat multiplayer table, or in seven-hand elimination. Choose a player seed, then replay and audit every deal and settlement.",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy",
+      "Free To Play"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Dual-core 2.0 GHz<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11 compatible integrated graphics<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Network:</strong> Broadband Internet connection<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required to play. Steam must be running.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 / 11 64-bit<br></li><li><strong>Processor:</strong> Quad-core 2.5 GHz (Intel Core i5 / AMD Ryzen 5 class)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Intel UHD Graphics 620 or better<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 1 GB available space<br></li><li><strong>Additional Notes:</strong> Internet connection required to play. Steam must be running.</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 1,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11 compatible integrated graphics",
+      "gpu_query": "DirectX 11 compatible integrated graphics graphics card",
+      "cpu_text": "Dual-core 2.0 GHz",
+      "cpu_query": "Dual core 2 0 GHz processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Dual-core 2.0 GHz<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11 compatible integrated graphics<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Network:</strong> Broadband Internet connection<br/></li><li><strong>Storage:</strong> 1 GB available space<br/></li><li><strong>Additional Notes:</strong> Internet connection required to play. Steam must be running.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 / 11 64-bit<br/></li><li><strong>Processor:</strong> Quad-core 2.5 GHz (Intel Core i5 / AMD Ryzen 5 class)<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> Intel UHD Graphics 620 or better<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 1 GB available space<br/></li><li><strong>Additional Notes:</strong> Internet connection required to play. Steam must be running.</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "3859180": {
+    "appid": "3859180",
+    "name": "The Electorate",
+    "slug": "the-electorate-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3859180/9752b9b9e72f8ece30ac51320126ed16ccd2bfd9/header.jpg?t=1793318734",
+    "short_desc": "Campaign to victory in the ultimate election simulator, The Electorate. Rally voters, dominate the airwaves, attack rivals, and fight for glory and power across every county in the United States.",
+    "genres": [
+      "Simulation",
+      "Strategy"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> 2 GHz Dual-Core Processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> DirectX 11-compatible GPU with Shader Model 5.0 support<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 10 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 10,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "DirectX 11-compatible GPU with Shader Model 5.0 support",
+      "gpu_query": "DirectX 11 compatible GPU with Shader graphics card",
+      "cpu_text": "2 GHz Dual-Core Processor",
+      "cpu_query": "2 GHz Dual Core Processor processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 (64-bit)<br/></li><li><strong>Processor:</strong> 2 GHz Dual-Core Processor<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> DirectX 11-compatible GPU with Shader Model 5.0 support<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 10 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5431080": {
+    "appid": "5431080",
+    "name": "Planet Munchers",
+    "slug": "planet-munchers-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5431080/b62bef66f548b528d672dbc13f3ced1826ccfb98/header.jpg?t=1793316305",
+    "short_desc": "Grow a handful of woodlice into a swarm of 10,000. Devour voxel planets, spend Chunks on upgrades and return stronger with permanent DNA research. Choose strange worlds, unleash destructive abilities and race through Time Trial in this space incremental.",
+    "genres": [
+      "Casual",
+      "Indie",
+      "Strategy"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br></li><li><strong>Processor:</strong> Quad-core 64-bit processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with OpenGL 3.3 support and 2 GB VRAM<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard and mouse required. Minimum display: 1280 x 720.</li></ul>",
+    "rec_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br></li><li><strong>Processor:</strong> Quad-core 64-bit processor<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> Dedicated graphics card with OpenGL 3.3 support and 2 GB VRAM<br></li><li><strong>Storage:</strong> 100 MB available space<br></li><li><strong>Additional Notes:</strong> Keyboard and mouse required. Minimum display: 1280 x 720.</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Dedicated graphics card with OpenGL 3.3 support and 2 GB VRAM",
+      "gpu_query": "Dedicated graphics card with OpenGL 3 graphics card",
+      "cpu_text": "Quad-core 64-bit processor",
+      "cpu_query": "Quad core 64 bit processor processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br/></li><li><strong>Processor:</strong> Quad-core 64-bit processor<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> Dedicated graphics card with OpenGL 3.3 support and 2 GB VRAM<br/></li><li><strong>Storage:</strong> 100 MB available space<br/></li><li><strong>Additional Notes:</strong> Keyboard and mouse required. Minimum display: 1280 x 720.</li></ul> <strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 / 11 (64-bit)<br/></li><li><strong>Processor:</strong> Quad-core 64-bit processor<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> Dedicated graphics card with OpenGL 3.3 support and 2 GB VRAM<br/></li><li><strong>Storage:</strong> 100 MB available space<br/></li><li><strong>Additional Notes:</strong> Keyboard and mouse required. Minimum display: 1280 x 720.</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "4919950": {
+    "appid": "4919950",
+    "name": "EpicSelectly",
+    "slug": "epicselectly-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4919950/7b31569799a86576625904f4d8e814f61839057a/header.jpg?t=1793316178",
+    "short_desc": "EpicSelectly is a bullet hell shooter where you choose between the dense Red World and the fast Blue World. Repeated choices raise each world's rank and intensify its patterns. Dodge aimed and random bullets, customize Extra Mode's difficulty, and compete on Steam leaderboards.",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows11<br></li><li><strong>Processor:</strong> intel core™ i3-3245<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Intel HD Graphics 4000<br></li><li><strong>DirectX:</strong> Version 12<br></li><li><strong>Storage:</strong> 512 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "Intel HD Graphics 4000",
+      "gpu_query": "Intel HD Graphics 4000 graphics card",
+      "cpu_text": "intel core™ i3-3245",
+      "cpu_query": "intel core i3 3245 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows11<br/></li><li><strong>Processor:</strong> intel core™ i3-3245<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Intel HD Graphics 4000<br/></li><li><strong>DirectX:</strong> Version 12<br/></li><li><strong>Storage:</strong> 512 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5331600": {
+    "appid": "5331600",
+    "name": "My Metal Fairy",
+    "slug": "my-metal-fairy-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5331600/66854013c6a240a5c097fedf284aa4fbff49985d/header.jpg?t=1793315682",
+    "short_desc": "Twenty metres beneath Bagannur, something lies strapped to a stretcher. Your job is simple: keep it asleep until 1 AM. Decode the printouts, stop the leaks, and whatever you do, don't move when it looks at you.",
+    "genres": [
+      "Adventure",
+      "Indie",
+      "Free To Play"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Dual-core 2.0 GHz (Intel Core i3 / AMD equivalent)<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 compatible GPU (Intel HD Graphics 4000 or better)<br></li><li><strong>Storage:</strong> 300 MB available space<br></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br></li><li><strong>Additional Notes:</strong> Mouse required. Headphones recommended.</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br></li><li><strong>Processor:</strong> Quad-core 2.5 GHz (Intel Core i5 / AMD Ryzen 3)<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750 / AMD Radeon R7 260 / Intel UHD 620 or better<br></li><li><strong>Storage:</strong> 500 MB available space<br></li><li><strong>Sound Card:</strong> Any<br></li><li><strong>Additional Notes:</strong> Best experienced with headphones in a dark room.</li></ul>",
+    "specs": {
+      "ram_gb": 4,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "OpenGL 3.3 compatible GPU (Intel HD Graphics 4000 or better)",
+      "gpu_query": "OpenGL 3 3 compatible GPU Intel graphics card",
+      "cpu_text": "Dual-core 2.0 GHz (Intel Core i3 / AMD equivalent)",
+      "cpu_query": "Dual core 2 0 GHz processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Dual-core 2.0 GHz (Intel Core i3 / AMD equivalent)<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> OpenGL 3.3 compatible GPU (Intel HD Graphics 4000 or better)<br/></li><li><strong>Storage:</strong> 300 MB available space<br/></li><li><strong>Sound Card:</strong> DirectX compatible sound card<br/></li><li><strong>Additional Notes:</strong> Mouse required. Headphones recommended.</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Windows 10 64-bit<br/></li><li><strong>Processor:</strong> Quad-core 2.5 GHz (Intel Core i5 / AMD Ryzen 3)<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 750 / AMD Radeon R7 260 / Intel UHD 620 or better<br/></li><li><strong>Storage:</strong> 500 MB available space<br/></li><li><strong>Sound Card:</strong> Any<br/></li><li><strong>Additional Notes:</strong> Best experienced with headphones in a dark room.</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "4399900": {
+    "appid": "4399900",
+    "name": "Fiak",
+    "slug": "fiak-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4399900/b667cd4b81a4a2c013e438c2e884f5465f0f90e9/header.jpg?t=1793315235",
+    "short_desc": "Four nights of survival in a realistic, immersive horror experience. Alone in your house, you face a malicious entity determined to get inside. This is not a walking simulator: every decision affects your survival. One mistake is fatal.",
+    "genres": [
+      "Action",
+      "Indie"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 11 25H2<br></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz (2.40 GHz)<br></li><li><strong>Memory:</strong> 16 GB RAM<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650<br></li><li><strong>DirectX:</strong> Version 11<br></li><li><strong>Storage:</strong> 20 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>",
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 20,
+      "recommended_ram": "32GB (2x16GB) DDR5 6000MHz Dual-Channel Gaming RAM",
+      "ram_query": "32GB 2x16GB DDR5 6000MHz gaming RAM",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce GTX 1650",
+      "gpu_query": "NVIDIA GeForce GTX 1650 graphics card",
+      "cpu_text": "Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz (2.40 GHz)",
+      "cpu_query": "Intel R Core TM i5 processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 11 25H2<br/></li><li><strong>Processor:</strong> Intel(R) Core(TM) i5-9300H CPU @ 2.40GHz (2.40 GHz)<br/></li><li><strong>Memory:</strong> 16 GB RAM<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1650<br/></li><li><strong>DirectX:</strong> Version 11<br/></li><li><strong>Storage:</strong> 20 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5294670": {
+    "appid": "5294670",
+    "name": "Murciavania",
+    "slug": "murciavania-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5294670/6a833803231bf16456c761ff9fecb4a3e19919d4/header.jpg?t=1793315165",
+    "short_desc": "Explore a dark, folkloric Murcia in this 2D metroidvania. Master weapons, perfect parries and incantations, uncover hidden passages and cross into the mirrored Envés. 444 rooms, 47 bosses and two endings. Spanish and English text.",
+    "genres": [
+      "Action",
+      "Adventure",
+      "RPG"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "full",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10 (64-bit)<br></li><li><strong>Processor:</strong> Dual-core processor from the last 10 years<br></li><li><strong>Memory:</strong> 2 GB RAM<br></li><li><strong>Graphics:</strong> OpenGL 3.3 / Vulkan 1.0 compatible graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br></li><li><strong>OS:</strong> Windows 10/11 (64-bit)<br></li><li><strong>Processor:</strong> Quad-core processor<br></li><li><strong>Memory:</strong> 4 GB RAM<br></li><li><strong>Graphics:</strong> Entry-level dedicated graphics card or recent integrated graphics<br></li><li><strong>Storage:</strong> 1 GB available space</li></ul>",
+    "specs": {
+      "ram_gb": 2,
+      "storage_gb": 1,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "OpenGL 3.3 / Vulkan 1.0 compatible graphics",
+      "gpu_query": "OpenGL 3 3 Vulkan 1 0 graphics card",
+      "cpu_text": "Dual-core processor from the last 10 years",
+      "cpu_query": "Dual core processor from the processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10 (64-bit)<br/></li><li><strong>Processor:</strong> Dual-core processor from the last 10 years<br/></li><li><strong>Memory:</strong> 2 GB RAM<br/></li><li><strong>Graphics:</strong> OpenGL 3.3 / Vulkan 1.0 compatible graphics<br/></li><li><strong>Storage:</strong> 1 GB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li>Requires a 64-bit processor and operating system<br/></li><li><strong>OS:</strong> Windows 10/11 (64-bit)<br/></li><li><strong>Processor:</strong> Quad-core processor<br/></li><li><strong>Memory:</strong> 4 GB RAM<br/></li><li><strong>Graphics:</strong> Entry-level dedicated graphics card or recent integrated graphics<br/></li><li><strong>Storage:</strong> 1 GB available space</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "5367610": {
+    "appid": "5367610",
+    "name": "Pocket Chef",
+    "slug": "pocket-chef-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5367610/c51b2338653f9e4e4144a1c780f42167f3938ae1/header.jpg?t=1793315065",
+    "short_desc": "A tiny chef moves onto your desktop! Cook delicious meals, serve cute animal customers, collect ingredients, and start your own desktop kitchen adventure.",
+    "genres": [
+      "Action",
+      "Casual",
+      "Simulation"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows<br></li><li><strong>Processor:</strong> Intel Core 2 DUO or higher<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+    "rec_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> windows<br></li><li><strong>Processor:</strong> Intel Core 2 DUO or higher<br></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br></li><li><strong>Storage:</strong> 100 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 16,
+      "storage_gb": 60,
+      "recommended_ram": "32GB (2x16GB) DDR5 6000MHz Dual-Channel Gaming RAM",
+      "ram_query": "32GB 2x16GB DDR5 6000MHz gaming RAM",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "NVIDIA GeForce GTX 1060",
+      "gpu_query": "NVIDIA GeForce GTX 1060 graphics card",
+      "cpu_text": "Intel Core 2 DUO or higher",
+      "cpu_query": "Intel Core 2 DUO or processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> windows<br/></li><li><strong>Processor:</strong> Intel Core 2 DUO or higher<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br/></li><li><strong>Storage:</strong> 100 MB available space</li></ul> <strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> windows<br/></li><li><strong>Processor:</strong> Intel Core 2 DUO or higher<br/></li><li><strong>Graphics:</strong> NVIDIA GeForce GTX 1060<br/></li><li><strong>Storage:</strong> 100 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-30"
+  },
+  "955010": {
+    "appid": "955010",
+    "name": "ARCHWIZARD",
+    "slug": "archwizard-pc-system-requirements-hardware-upgrade",
+    "header_image": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/955010/header.jpg?t=1793314953",
+    "short_desc": "Fast paced \"Hyper Shooter\" complemented with esoteric exploration experience. Take a quest to become Arch Wizard: dominate surrounding realms, reverse Time, escape Death, befriend Chaos, face the End of the World. Knowledge based progression. Full of secrets.",
+    "genres": [
+      "Action"
+    ],
+    "release_date": "Oct 29, 2026",
+    "controller_support": "none",
+    "min_html": "<strong>Minimum:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Wundows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 5 4600H<br></li><li><strong>Memory:</strong> 8 GB RAM<br></li><li><strong>Graphics:</strong> AMD Ryzen 5 4600H with Radeon<br></li><li><strong>Storage:</strong> 900 MB available space</li></ul>",
+    "rec_html": "<strong>Recommended:</strong><br><ul class=\"bb_ul\"><li><strong>OS:</strong> Wundows 10<br></li><li><strong>Processor:</strong> AMD Ryzen 5 4600H<br></li><li><strong>Memory:</strong> 8 MB RAM<br></li><li><strong>Graphics:</strong> AMD Ryzen 5 4600H with Radeon<br></li><li><strong>Storage:</strong> 900 MB available space</li></ul>",
+    "specs": {
+      "ram_gb": 8,
+      "storage_gb": 60,
+      "recommended_ram": "16GB DDR4 3200MHz or DDR5 6000MHz Gaming RAM Kit",
+      "ram_query": "16GB DDR5 6000MHz CL30 desktop gaming RAM kit",
+      "ssd_title": "1TB PCIe Gen4 NVMe M.2 Internal Gaming SSD",
+      "ssd_query": "1TB NVMe M.2 PCIe 4.0 internal SSD",
+      "gpu_text": "AMD Ryzen 5 4600H with Radeon",
+      "gpu_query": "AMD Ryzen 5 4600H with Radeon graphics card",
+      "cpu_text": "AMD Ryzen 5 4600H",
+      "cpu_query": "AMD Ryzen 5 4600H processor",
+      "clean_html": "<strong>Minimum:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Wundows 10<br/></li><li><strong>Processor:</strong> AMD Ryzen 5 4600H<br/></li><li><strong>Memory:</strong> 8 GB RAM<br/></li><li><strong>Graphics:</strong> AMD Ryzen 5 4600H with Radeon<br/></li><li><strong>Storage:</strong> 900 MB available space</li></ul> <strong>Recommended:</strong><br/><ul class=\"bb_ul\"><li><strong>OS:</strong> Wundows 10<br/></li><li><strong>Processor:</strong> AMD Ryzen 5 4600H<br/></li><li><strong>Memory:</strong> 8 MB RAM<br/></li><li><strong>Graphics:</strong> AMD Ryzen 5 4600H with Radeon<br/></li><li><strong>Storage:</strong> 900 MB available space</li></ul>"
+    },
+    "updated_at": "2026-10-30"
   }
 }
